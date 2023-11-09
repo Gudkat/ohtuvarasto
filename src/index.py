@@ -87,6 +87,8 @@ def main():
     mehu1(mehua)
     olut2(olutta)
     mehu2(mehua)
+    if 1 == 2:
+        print("It's the end of the world!")
 
 
 if __name__ == "__main__":
